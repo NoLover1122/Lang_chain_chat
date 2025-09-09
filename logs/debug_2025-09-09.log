@@ -1,0 +1,511 @@
+2025-09-09 00:17:20.869 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:17:25.902 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:19:39.504 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:19:39.505 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:19:39.544 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:19:39.544 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:20:28.333 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:20:28.338 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:20:28.724 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:21:25.045 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:21:30.051 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:21:35.494 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:21:35.495 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:21:35.533 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:21:35.534 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:21:42.768 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:21:42.775 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:21:43.157 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:24:48.912 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:24:53.918 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:25:04.333 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:25:04.333 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:25:04.371 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:25:04.371 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:25:18.201 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:25:18.206 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:25:18.565 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:26:10.169 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:26:15.174 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:26:20.348 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:26:20.349 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:26:20.387 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:26:20.388 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:26:22.120 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:26:22.125 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:26:22.482 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:28:20.815 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:28:25.821 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:28:31.837 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:28:31.838 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:28:31.878 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:28:31.879 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:28:51.917 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:28:51.922 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:28:52.414 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:32:37.480 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:32:42.486 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:33:25.138 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:33:25.138 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:33:25.184 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:33:25.184 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:33:33.686 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:33:33.696 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:34:04.125 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:34:52.510 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 00:34:57.514 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 00:35:41.843 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 00:35:41.843 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 00:35:41.886 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 00:35:41.886 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 00:35:47.704 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 00:35:47.710 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:35:57.942 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:36:26.225 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:36:34.397 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 00:36:40.341 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 00:36:48.642 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 11:38:14.544 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 11:38:19.550 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 11:39:22.614 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 11:39:22.615 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 11:39:22.652 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 11:39:22.653 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 11:41:38.129 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 11:41:38.135 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 11:42:12.634 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 11:46:37.056 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 11:46:46.271 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 11:49:18.134 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 11:49:29.752 | DEBUG    | app.api.router:stream_generator:339 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 11:54:13.193 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 11:54:18.200 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 11:54:35.482 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 11:54:35.482 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 11:54:35.889 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 11:54:35.890 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 11:55:17.651 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 11:55:17.660 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 11:55:19.373 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 11:55:19.374 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 121，处理时间: 1.71秒
+2025-09-09 11:55:19.374 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 11:56:08.157 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 11:56:13.162 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 11:56:19.803 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 11:56:19.803 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 11:56:19.840 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 11:56:19.841 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 11:56:20.781 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 11:56:20.786 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 11:56:34.243 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 11:56:34.243 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 76，处理时间: 13.46秒
+2025-09-09 11:56:34.243 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:12:47.535 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 12:12:52.541 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 12:13:26.793 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 12:13:26.793 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 12:13:26.841 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 12:13:26.842 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 12:13:43.380 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 12:13:43.386 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:13:50.645 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:13:50.645 | WARNING  | app.api.router:stream_generator:357 - 任务 3475d9eb-c827-48c5-91d3-b1b996c0f41e 生成了空响应
+2025-09-09 12:13:50.646 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:20:10.552 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:20:17.359 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:20:17.360 | WARNING  | app.api.router:stream_generator:357 - 任务 67aa1fef-0fd6-4196-a4ae-15d8dd3cba7c 生成了空响应
+2025-09-09 12:20:17.360 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:31:44.172 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 12:31:49.178 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 12:31:55.089 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 12:31:55.090 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 12:31:55.133 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 12:31:55.133 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 12:32:04.408 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 12:32:04.416 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:32:13.692 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:32:13.693 | WARNING  | app.api.router:stream_generator:357 - 任务 0ac7a60d-ca0c-43bd-a275-ca4e84738216 生成了空响应
+2025-09-09 12:32:13.694 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:37:37.408 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 12:37:42.414 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 12:37:48.679 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 12:37:48.679 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 12:37:48.717 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 12:37:48.717 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 12:37:56.685 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 12:37:56.691 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:38:11.718 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:12.220 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:12.721 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:13.223 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:13.725 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:14.226 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:14.729 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:15.231 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:15.732 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:16.235 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:16.738 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:17.241 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:17.743 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:18.246 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:18.748 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:19.250 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:19.751 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:20.252 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:20.754 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:21.257 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:21.759 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:22.260 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:22.762 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:23.265 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:23.766 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:24.268 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:24.769 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:25.270 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:25.772 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:26.273 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:26.774 | WARNING  | app.api.router:stream_generator:321 - 任务 5a15cf07-76cc-46e6-8801-da0282df59c4 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:38:27.065 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:38:27.065 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 32，处理时间: 30.37秒
+2025-09-09 12:38:27.065 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:43:10.020 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 12:43:15.026 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 12:43:20.937 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 12:43:20.938 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 12:43:20.978 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 12:43:20.978 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 12:43:30.988 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 12:43:30.994 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:43:46.033 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:46.535 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:47.038 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:47.541 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:48.042 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:48.544 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:49.045 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:49.546 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:50.049 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:50.552 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:51.054 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:51.555 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:52.057 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:52.558 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:53.059 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:53.561 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:54.062 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:54.564 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:55.065 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:55.567 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:56.069 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:56.570 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:57.072 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:57.573 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:58.074 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:58.575 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:59.077 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:43:59.579 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:00.081 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:00.582 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:01.083 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:01.585 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:02.087 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:02.589 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:03.092 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:03.594 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:04.096 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:04.597 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:05.098 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:05.601 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:06.102 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:06.604 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:07.107 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:07.608 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:08.109 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:08.611 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:09.112 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:09.613 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:10.115 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:10.616 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:11.117 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:11.618 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:12.120 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:12.621 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:13.122 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:13.625 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:14.126 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:14.628 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:15.129 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:15.631 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:16.132 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:16.634 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:17.136 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:17.637 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:18.138 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:18.639 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:19.141 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:19.643 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:20.146 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:20.649 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:21.152 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:21.654 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:22.156 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:22.657 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:23.159 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:23.661 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:24.163 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:24.664 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:25.166 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:25.666 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:26.168 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:26.669 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:27.171 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:27.674 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:28.177 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:28.679 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:29.181 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:29.684 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:30.186 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:30.689 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:31.191 | WARNING  | app.api.router:stream_generator:321 - 任务 ea7eb328-6a88-4d17-ac3d-d4bd5c28b866 超过 15.0 秒无活动，可能卡住
+2025-09-09 12:44:31.534 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:44:31.534 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 25，处理时间: 60.54秒
+2025-09-09 12:44:31.534 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:50:10.064 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 12:50:15.071 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 12:50:21.595 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 12:50:21.596 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 12:50:21.639 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 12:50:21.639 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 12:50:30.815 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 12:50:30.821 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:50:39.750 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:50:39.752 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 616，处理时间: 8.93秒
+2025-09-09 12:50:39.752 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:54:36.007 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 12:54:41.013 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 12:54:48.427 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 12:54:48.428 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 12:54:48.474 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 12:54:48.475 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 12:54:48.688 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 12:54:48.695 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:54:59.577 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:54:59.578 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 649，处理时间: 10.88秒
+2025-09-09 12:54:59.579 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:58:49.069 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:58:59.802 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:58:59.803 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 124，处理时间: 10.73秒
+2025-09-09 12:58:59.803 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 12:59:18.617 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 12:59:32.209 | DEBUG    | app.api.router:stream_generator:295 - 收到流式响应完成标志
+2025-09-09 12:59:32.210 | INFO     | app.api.router:stream_generator:389 - 流式处理完成，生成内容长度: 293，处理时间: 13.59秒
+2025-09-09 12:59:32.210 | DEBUG    | app.api.router:stream_generator:393 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:07:38.088 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:07:43.094 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:07:48.427 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:07:48.428 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:07:48.466 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:07:48.466 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:07:52.171 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:11:43.478 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:11:48.482 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:11:53.617 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:11:53.617 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:11:53.657 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:11:53.657 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:11:57.835 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:11:57.840 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:11:58.250 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:11:58.250 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 66，处理时间: 0.41秒
+2025-09-09 13:11:58.250 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:13:03.632 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:13:08.638 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:13:13.807 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:13:13.807 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:13:13.845 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:13:13.845 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:13:17.504 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:13:17.510 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:13:20.201 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:13:20.201 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 229，处理时间: 2.69秒
+2025-09-09 13:13:20.201 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:19:44.603 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:19:49.606 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:19:56.577 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:19:56.578 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:19:56.616 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:19:56.616 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:21:38.165 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:21:38.172 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:21:40.987 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:21:40.987 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 249，处理时间: 2.81秒
+2025-09-09 13:21:40.987 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:22:00.525 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:22:05.531 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:22:13.268 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:22:13.269 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:22:13.308 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:22:13.308 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:22:21.750 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:22:21.756 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:22:36.790 | WARNING  | app.api.router:stream_generator:322 - 任务 5e101489-9470-467b-aaa0-18d91be40b76 超过 15.0 秒无活动，可能卡住
+2025-09-09 13:22:36.790 | INFO     | app.api.router:stream_generator:332 - 任务 5e101489-9470-467b-aaa0-18d91be40b76 已不在处理队列中，结束等待
+2025-09-09 13:22:36.791 | WARNING  | app.api.router:stream_generator:354 - 任务 5e101489-9470-467b-aaa0-18d91be40b76 生成了空响应
+2025-09-09 13:22:36.791 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:25:44.502 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:25:49.508 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:25:55.009 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:25:55.009 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:25:55.049 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:25:55.049 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:25:59.801 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:25:59.807 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:26:14.833 | WARNING  | app.api.router:stream_generator:322 - 任务 81a210a8-abb9-4c7e-92b3-a3bb09a228e6 超过 15.0 秒无活动，可能卡住
+2025-09-09 13:26:14.833 | INFO     | app.api.router:stream_generator:332 - 任务 81a210a8-abb9-4c7e-92b3-a3bb09a228e6 已不在处理队列中，结束等待
+2025-09-09 13:26:14.834 | WARNING  | app.api.router:stream_generator:354 - 任务 81a210a8-abb9-4c7e-92b3-a3bb09a228e6 生成了空响应
+2025-09-09 13:26:14.834 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:27:50.952 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:27:55.958 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:28:22.823 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:28:22.824 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:28:22.861 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:28:22.862 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:28:25.913 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:28:25.918 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:28:40.947 | WARNING  | app.api.router:stream_generator:322 - 任务 39f459c1-739a-4a51-9e5a-7115e373a719 超过 15.0 秒无活动，可能卡住
+2025-09-09 13:28:40.947 | INFO     | app.api.router:stream_generator:332 - 任务 39f459c1-739a-4a51-9e5a-7115e373a719 已不在处理队列中，结束等待
+2025-09-09 13:28:40.948 | WARNING  | app.api.router:stream_generator:354 - 任务 39f459c1-739a-4a51-9e5a-7115e373a719 生成了空响应
+2025-09-09 13:28:40.948 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:31:31.517 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:31:36.523 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:31:44.572 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:31:44.573 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:31:44.610 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:31:44.611 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:31:46.430 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:31:46.436 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:32:01.471 | WARNING  | app.api.router:stream_generator:322 - 任务 bcfcc620-36d3-48ce-921c-02a98062be4a 超过 15.0 秒无活动，可能卡住
+2025-09-09 13:32:01.471 | INFO     | app.api.router:stream_generator:332 - 任务 bcfcc620-36d3-48ce-921c-02a98062be4a 已不在处理队列中，结束等待
+2025-09-09 13:32:01.471 | WARNING  | app.api.router:stream_generator:354 - 任务 bcfcc620-36d3-48ce-921c-02a98062be4a 生成了空响应
+2025-09-09 13:32:01.472 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:36:30.755 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:36:35.762 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:36:42.254 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:36:42.255 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:36:42.292 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:36:42.293 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:37:00.567 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:37:00.572 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:37:04.332 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:37:04.333 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 159，处理时间: 3.76秒
+2025-09-09 13:37:04.333 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:40:15.006 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 13:40:20.012 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 13:40:27.312 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 13:40:27.312 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 13:40:27.351 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 13:40:27.352 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 13:40:28.504 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 13:40:28.510 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:40:31.426 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:40:31.427 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 158，处理时间: 2.92秒
+2025-09-09 13:40:31.428 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:47:35.842 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:47:38.177 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:47:38.177 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 244，处理时间: 2.33秒
+2025-09-09 13:47:38.178 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 13:47:41.543 | DEBUG    | app.api.router:stream_generator:223 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 13:47:46.930 | DEBUG    | app.api.router:stream_generator:293 - 收到流式响应完成标志
+2025-09-09 13:47:46.930 | INFO     | app.api.router:stream_generator:386 - 流式处理完成，生成内容长度: 399，处理时间: 5.39秒
+2025-09-09 13:47:46.931 | DEBUG    | app.api.router:stream_generator:390 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 14:04:56.682 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 14:05:01.688 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 14:05:06.288 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 14:05:06.288 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 14:05:06.325 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 14:05:06.326 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 14:05:45.779 | INFO     | main:shutdown_event:55 - 应用程序关闭中...
+2025-09-09 14:05:50.785 | INFO     | main:shutdown_event:63 - 应用程序关闭完成
+2025-09-09 14:05:55.982 | INFO     | app.utils.logging:setup_logger:60 - 日志系统初始化完成
+2025-09-09 14:05:55.982 | DEBUG    | app.utils.logging:setup_logger:61 - DEBUG级别日志已启用
+2025-09-09 14:05:56.021 | INFO     | main:startup_event:41 - 应用程序启动中...
+2025-09-09 14:05:56.021 | INFO     | main:startup_event:49 - 应用程序启动完成
+2025-09-09 14:06:03.212 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822683, 最大并发: 5
+2025-09-09 14:06:03.218 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 14:06:12.416 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 14:06:12.416 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 103，处理时间: 9.20秒
+2025-09-09 14:06:12.416 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 14:07:27.470 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 14:07:32.764 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 14:07:32.765 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 118，处理时间: 5.29秒
+2025-09-09 14:07:32.765 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 14:07:42.275 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 14:07:49.873 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 14:07:49.873 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 513，处理时间: 7.60秒
+2025-09-09 14:07:49.873 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 15:24:00.663 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822683, 当前并发: 1
+2025-09-09 15:24:09.286 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:24:09.286 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 142，处理时间: 8.62秒
+2025-09-09 15:24:09.286 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822683, 剩余并发: 0
+2025-09-09 15:25:12.704 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822654, 最大并发: 5
+2025-09-09 15:25:12.705 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:58837541, 最大并发: 5
+2025-09-09 15:25:12.705 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:67433711, 最大并发: 5
+2025-09-09 15:25:12.706 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822677, 最大并发: 5
+2025-09-09 15:25:12.706 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:10000643, 最大并发: 5
+2025-09-09 15:25:12.707 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822654, 当前并发: 1
+2025-09-09 15:25:12.707 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:58837541, 当前并发: 1
+2025-09-09 15:25:12.708 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:67433711, 当前并发: 1
+2025-09-09 15:25:12.709 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822677, 当前并发: 1
+2025-09-09 15:25:12.709 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:10000643, 当前并发: 1
+2025-09-09 15:25:23.599 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:25:23.600 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 432，处理时间: 10.89秒
+2025-09-09 15:25:23.600 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822654, 剩余并发: 0
+2025-09-09 15:25:28.178 | WARNING  | app.api.router:stream_generator:227 - 任务 0c691c75-d68f-4c28-b5a7-578263e3db98 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:25:28.178 | INFO     | app.api.router:stream_generator:237 - 任务 0c691c75-d68f-4c28-b5a7-578263e3db98 已不在处理队列中，结束等待
+2025-09-09 15:25:28.178 | WARNING  | app.api.router:stream_generator:259 - 任务 0c691c75-d68f-4c28-b5a7-578263e3db98 生成了空响应
+2025-09-09 15:25:28.178 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:58837541, 剩余并发: 0
+2025-09-09 15:25:28.179 | WARNING  | app.api.router:stream_generator:227 - 任务 e7c989e3-1513-4f49-a587-623dfe3ffc9f 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:25:28.179 | INFO     | app.api.router:stream_generator:237 - 任务 e7c989e3-1513-4f49-a587-623dfe3ffc9f 已不在处理队列中，结束等待
+2025-09-09 15:25:28.179 | WARNING  | app.api.router:stream_generator:259 - 任务 e7c989e3-1513-4f49-a587-623dfe3ffc9f 生成了空响应
+2025-09-09 15:25:28.179 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:67433711, 剩余并发: 0
+2025-09-09 15:25:28.179 | WARNING  | app.api.router:stream_generator:227 - 任务 23abccfb-36a0-4e95-b4de-335ca3babc4e 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:25:28.179 | INFO     | app.api.router:stream_generator:237 - 任务 23abccfb-36a0-4e95-b4de-335ca3babc4e 已不在处理队列中，结束等待
+2025-09-09 15:25:28.179 | WARNING  | app.api.router:stream_generator:259 - 任务 23abccfb-36a0-4e95-b4de-335ca3babc4e 生成了空响应
+2025-09-09 15:25:28.179 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822677, 剩余并发: 0
+2025-09-09 15:25:28.180 | WARNING  | app.api.router:stream_generator:227 - 任务 76d5d6da-484c-4975-acf0-d0c22407256e 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:25:28.180 | INFO     | app.api.router:stream_generator:237 - 任务 76d5d6da-484c-4975-acf0-d0c22407256e 已不在处理队列中，结束等待
+2025-09-09 15:25:28.180 | WARNING  | app.api.router:stream_generator:259 - 任务 76d5d6da-484c-4975-acf0-d0c22407256e 生成了空响应
+2025-09-09 15:25:28.180 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:10000643, 剩余并发: 0
+2025-09-09 15:26:09.272 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822655, 最大并发: 5
+2025-09-09 15:26:09.273 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822656, 最大并发: 5
+2025-09-09 15:26:09.274 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822680, 最大并发: 5
+2025-09-09 15:26:09.274 | INFO     | app.utils.concurrency:get_or_create_concurrency_controller:101 - 创建新的并发控制器: scholar:11822681, 最大并发: 5
+2025-09-09 15:26:09.275 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822655, 当前并发: 1
+2025-09-09 15:26:09.275 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822656, 当前并发: 1
+2025-09-09 15:26:09.276 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822680, 当前并发: 1
+2025-09-09 15:26:09.276 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822681, 当前并发: 1
+2025-09-09 15:26:09.277 | DEBUG    | app.api.router:stream_generator:125 - 获取并发控制器信号量: scholar:11822654, 当前并发: 1
+2025-09-09 15:26:24.889 | WARNING  | app.api.router:stream_generator:227 - 任务 7506d6eb-c2ae-49be-a2e4-f75326aca5b3 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:24.889 | WARNING  | app.api.router:stream_generator:227 - 任务 caad6f82-99c0-495a-9dae-7f6cec032d58 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:24.889 | WARNING  | app.api.router:stream_generator:227 - 任务 671ff518-c65b-41f8-bd47-71685c52da93 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:24.889 | WARNING  | app.api.router:stream_generator:227 - 任务 ff896574-8fd0-4b47-96ce-50498af0c9d8 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:24.889 | WARNING  | app.api.router:stream_generator:227 - 任务 dcc617e4-0d8f-4434-b61c-0f42fe0246ff 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:25.390 | WARNING  | app.api.router:stream_generator:227 - 任务 caad6f82-99c0-495a-9dae-7f6cec032d58 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:25.391 | WARNING  | app.api.router:stream_generator:227 - 任务 671ff518-c65b-41f8-bd47-71685c52da93 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:25.391 | WARNING  | app.api.router:stream_generator:227 - 任务 ff896574-8fd0-4b47-96ce-50498af0c9d8 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:25.391 | WARNING  | app.api.router:stream_generator:227 - 任务 dcc617e4-0d8f-4434-b61c-0f42fe0246ff 超过 15.0 秒无活动，可能卡住
+2025-09-09 15:26:31.408 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:26:31.408 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 572，处理时间: 22.13秒
+2025-09-09 15:26:31.408 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822656, 剩余并发: 0
+2025-09-09 15:26:32.863 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:26:32.863 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 137，处理时间: 23.59秒
+2025-09-09 15:26:32.863 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822654, 剩余并发: 0
+2025-09-09 15:26:33.849 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:26:33.850 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 272，处理时间: 24.57秒
+2025-09-09 15:26:33.850 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822680, 剩余并发: 0
+2025-09-09 15:26:33.933 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:26:33.933 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 305，处理时间: 24.66秒
+2025-09-09 15:26:33.933 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822681, 剩余并发: 0
+2025-09-09 15:26:35.015 | DEBUG    | app.api.router:stream_generator:198 - 收到流式响应完成标志
+2025-09-09 15:26:35.016 | INFO     | app.api.router:stream_generator:304 - 流式处理完成，生成内容长度: 137，处理时间: 25.74秒
+2025-09-09 15:26:35.016 | DEBUG    | app.api.router:stream_generator:308 - 释放并发控制器信号量: scholar:11822655, 剩余并发: 0

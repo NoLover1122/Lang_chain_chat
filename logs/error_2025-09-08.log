@@ -1,0 +1,2 @@
+2025-09-08 18:54:13.661 | ERROR    | app.api.router:stream_generator:368 - 流式处理失败: 'InMemorySaver' object has no attribute 'put_state'
+2025-09-08 19:08:30.435 | ERROR    | app.api.router:stream_generator:368 - 流式处理失败: 'ConversationSession' object has no attribute 'memory'
